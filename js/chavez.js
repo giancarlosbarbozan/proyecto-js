@@ -2,6 +2,6 @@
 const cuentachavez = {
     nombre : "Jaret",
     rol : "Desarrollador web",
-    edad : 39
+    edad : 40
 };
 console.log(cuentachavez);
