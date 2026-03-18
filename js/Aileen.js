@@ -1,7 +1,7 @@
 const cuentaAileen = {
     nombre: "Aileen",
     rol : "Programadora",
-    edad: 30
+    edad: 50
 };
 
 console.log(cuentaAileen); 
