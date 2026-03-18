@@ -1,7 +1,7 @@
 const cuentaFabian = {
     nombre: "Fabian",
-    rol: "Desarrollador Web",
-    edad: 20
+    rol: "Programador Web",
+    edad: 25
 }
 
 console.log (cuentaFabian);
